@@ -1,2 +1,28 @@
-# 35b6023b099c90df-cultural-heritage-payment-proc
-Built for cultural heritage professionals who are tired of spending hours building a system before you can actually use it.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Cultural Heritage Payment Processing Integration — f
+# Cultural Heritage Payment Processing Integration API
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A3cv26HbUEbRSdI0cZH26)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A3cv26HbUEbRSdI0cZH26)
+
